@@ -1,0 +1,29 @@
+There are two main types of Python:
+Python 2: This version of Python was first released in 2000 and is now considered legacy, with support ending on January 1, 2020.
+Python 3: This is the latest version of Python and is not backward-compatible with Python 2. It was first released in 2008 and is actively maintained with new releases coming out regularly.
+Additionally, there are several implementations of Python, such as CPython (the standard implementation), Jython (implemented in Java), and IronPython (implemented in .NET).
+Python មានពីរប្រភេទសំខាន់ៗ៖
+Python 2៖ កំណែ Python នេះត្រូវបានចេញផ្សាយជាលើកដំបូងក្នុងឆ្នាំ 2000 ហើយឥឡូវនេះត្រូវបានចាត់ទុកថាជាកេរ្តិ៍ដំណែល ដោយការគាំទ្រនឹងបញ្ចប់នៅថ្ងៃទី 1 ខែមករា ឆ្នាំ 2020។
+Python 3៖ នេះគឺជាកំណែចុងក្រោយបំផុតរបស់ Python ហើយមិនឆបគ្នាជាមួយ Python 2។ វាត្រូវបានចេញផ្សាយជាលើកដំបូងក្នុងឆ្នាំ 2008 ហើយត្រូវបានរក្សាយ៉ាងសកម្មជាមួយនឹងការចេញផ្សាយថ្មីៗដែលចេញជាទៀងទាត់។
+លើសពីនេះទៀត មានការអនុវត្តជាច្រើនរបស់ Python ដូចជា CPython (ការអនុវត្តស្តង់ដារ) Jython (អនុវត្តនៅក្នុង Java) និង IronPython (អនុវត្តក្នុង .NET)។
+
+The elements of Python programming language include:
+Variables and data types: such as integers, strings, lists, dictionaries, etc.
+Operators: mathematical and logical operators used to perform operations on variables and values.
+Control structures: such as if/else statements, for and while loops, etc.
+Functions: blocks of code that can be executed on demand, with or without parameters.
+Modules and libraries: pre-written code that can be imported and used in a Python program.
+Classes and objects: a blueprint for creating objects, and the objects themselves, with methods and attributes.
+Exception handling: mechanisms for catching and handling runtime errors in a program.
+File I/O: reading and writing data to/from files on disk.
+These are some of the core elements of Python and form the foundation for more advanced topics such as machine learning, data analysis, and web development.
+ធាតុផ្សំនៃភាសាសរសេរកម្មវិធី Python រួមមាន:
+អថេរ និងប្រភេទទិន្នន័យ៖ ដូចជាចំនួនគត់ ខ្សែអក្សរ បញ្ជី វចនានុក្រម ។ល។
+ប្រតិបត្តិករ៖ ប្រមាណវិធីគណិតវិទ្យា និងតក្កវិជ្ជា ប្រើសម្រាប់ប្រតិបត្តិការលើអថេរ និងតម្លៃ។
+រចនាសម្ព័ន្ធគ្រប់គ្រង៖ ដូចជាសេចក្តីថ្លែងការណ៍ if/else សម្រាប់ និងខណៈពេលរង្វិលជុំ។ល។
+មុខងារ៖ ប្លុកកូដដែលអាចត្រូវបានប្រតិបត្តិតាមតម្រូវការ ដោយមាន ឬគ្មានប៉ារ៉ាម៉ែត្រ។
+ម៉ូឌុល និងបណ្ណាល័យ៖ កូដដែលសរសេរជាមុនដែលអាចនាំចូល និងប្រើក្នុងកម្មវិធី Python ។
+ថ្នាក់ និងវត្ថុ៖ ប្លង់មេសម្រាប់បង្កើតវត្ថុ និងវត្ថុដោយខ្លួនឯង ជាមួយនឹងវិធីសាស្ត្រ និងគុណលក្ខណៈ។
+ការដោះស្រាយករណីលើកលែង៖ យន្តការសម្រាប់ចាប់ និងដោះស្រាយកំហុសពេលរត់ក្នុងកម្មវិធី។
+ឯកសារ I/O៖ អាន និងសរសេរទិន្នន័យទៅ/ពីឯកសារនៅលើថាស។
+ទាំងនេះគឺជាធាតុស្នូលមួយចំនួនរបស់ Python ហើយបង្កើតជាមូលដ្ឋានគ្រឹះសម្រាប់ប្រធានបទកម្រិតខ្ពស់បន្ថែមទៀតដូចជា ការរៀនម៉ាស៊ីន ការវិភាគទិន្នន័យ និងការអភិវឌ្ឍន៍គេហទំព័រ។
