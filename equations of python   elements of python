@@ -1,0 +1,89 @@
+equations of python
+
+In Python, equations are usually represented using mathematical operators. Some common mathematical operations include:
+
+Addition: +
+Subtraction: -
+Multiplication: *
+Division: /
+Integer Division: //
+Modulus (Remainder): %
+Exponentiation: **
+Example:
+
+python
+Copy code
+>>> 2 + 3
+5
+>>> 5 - 2
+3
+>>> 2 * 3
+6
+>>> 5 / 2
+2.5
+>>> 5 // 2
+2
+>>> 5 % 2
+1
+>>> 2 ** 3
+8
+
+សមីការ python
+
+នៅក្នុង Python សមីការជាធម្មតាត្រូវបានតំណាងដោយប្រើសញ្ញាប្រមាណវិធីគណិតវិទ្យា។ ប្រតិបត្តិការគណិតវិទ្យាទូទៅមួយចំនួនរួមមាន:
+
+បន្ថែម៖ +
+ដក៖ -
+គុណ៖ *
+ការបែងចែក: /
+ផ្នែកចំនួនគត់៖ //
+ម៉ូឌុល (នៅសល់)៖ %
+និទស្សន្ត៖ **
+ឧទាហរណ៍៖
+
+ពស់ថ្លាន់
+ចម្លងកូដ
+>>> ២+៣
+៥
+>>> ៥ – ២
+៣
+>>> ២*៣
+៦
+>>> ៥/២
+២.៥
+>>> ៥ // ២
+២
+>>> ៥% ២
+១
+>>> ២** ៣
+៨
+
+
+
+elements of python
+The basic elements of the Python programming language include:
+
+Variables: Used to store values in a program.
+Data Types: Include numbers, strings, lists, dictionaries, and more.
+Operators: Used to perform operations on values and variables.
+Control Structures: Used to control the flow of a program.
+Functions: Used to perform specific tasks in a program.
+Modules: Used to group related code into a single file.
+Classes and Objects: Used to define objects and their behavior.
+Exceptions: Used to handle errors and exceptions in a program.
+File Input/Output: Used to read and write data to files.
+Regular Expressions: Used to perform pattern matching.
+
+ធាតុនៃ python
+ធាតុជាមូលដ្ឋាននៃភាសាសរសេរកម្មវិធី Python រួមមាន:
+
+អថេរ៖ ប្រើសម្រាប់រក្សាទុកតម្លៃក្នុងកម្មវិធី។
+ប្រភេទទិន្នន័យ៖ រួមបញ្ចូលលេខ ខ្សែអក្សរ បញ្ជី វចនានុក្រម និងច្រើនទៀត។
+ប្រតិបត្តិករ៖ ប្រើសម្រាប់ប្រតិបត្តិការលើតម្លៃ និងអថេរ។
+រចនាសម្ព័ន្ធគ្រប់គ្រង៖ ប្រើដើម្បីគ្រប់គ្រងលំហូរនៃកម្មវិធី។
+មុខងារ៖ ប្រើដើម្បីអនុវត្តការងារជាក់លាក់នៅក្នុងកម្មវិធី។
+ម៉ូឌុល៖ ប្រើ​សម្រាប់​ដាក់​ជា​ក្រុម​កូដ​ដែល​ទាក់ទង​ទៅ​ក្នុង​ឯកសារ​តែ​មួយ។
+ថ្នាក់ និងវត្ថុ៖ ប្រើដើម្បីកំណត់វត្ថុ និងឥរិយាបថរបស់វា។
+ករណីលើកលែង៖ ប្រើដើម្បីដោះស្រាយកំហុស និងករណីលើកលែងនៅក្នុងកម្មវិធី។
+ឯកសារបញ្ចូល/លទ្ធផល៖ ប្រើសម្រាប់អាន និងសរសេរទិន្នន័យទៅឯកសារ។
+កន្សោមធម្មតា៖ ប្រើដើម្បីអនុវត្តការផ្គូផ្គងលំនាំ។
